@@ -1,0 +1,26 @@
+*키움증권 API, 번개3
+*텔레그램, API
+* logger
+* pyinstaller
+* pip install cx_freeze
+
+
+matplot
+차트그리기
+flask
+딥러닝(텐서플로, 파이토치)
+
+
+
+
+손절비율 guI
+챗봇 명령어 추가하기
+
+쓰레드
+
+실시간조회
+조건검색
+
+깃허브
+
+설치파일

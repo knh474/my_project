@@ -1,0 +1,7 @@
+[ DEBUG      | log_writer.py: 29		] 2018-09-30 01:26:32,208 > debug
+[ INFO       | log_writer.py: 30		] 2018-09-30 01:26:32,208 > info
+[ WARNING    | log_writer.py: 31		] 2018-09-30 01:26:32,209 > warn
+[ WARNING    | log_writer.py: 32		] 2018-09-30 01:26:32,209 > warning
+[ ERROR      | log_writer.py: 33		] 2018-09-30 01:26:32,211 > error
+[ CRITICAL   | log_writer.py: 34		] 2018-09-30 01:26:32,211 > critical
+[ CRITICAL   | log_writer.py: 35		] 2018-09-30 01:26:32,212 > fatal
